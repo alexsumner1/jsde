@@ -1,0 +1,53 @@
+.win-ctr {
+  background: #111;
+  position: absolute;
+  min-width: 250px;
+  min-height: 150px;
+  border: 1px solid white;
+}
+
+.win-tb {
+  max-height: 24px;
+  min-height: 24px;
+  border: 1px solid white;
+  padding: 0px;
+}
+
+.win-tb-title {
+  display: inline-block;
+  padding-left: 5px;
+  padding-top: 2px;
+  width: 250px;
+}
+
+.dt-sidebar {
+  background: #151515;
+  float: right;
+  clear: both;
+  min-width: 200px;
+  max-width: 200px;
+  min-height: 9999px;
+}
+
+.btn-close {
+  font-size: 21px;
+  float: right;
+  border: 1px solid white;
+  min-width: 20px;
+  max-width: 23px;
+  min-height: 23px;
+  max-height: 23px;
+  padding-left: 2px;
+  line-height: 1;
+}
+
+.btn-shade {
+  font-size: 21px;
+  min-width: 23px;
+  max-width: 23px;
+  min-height: 27px;
+  max-height: 27px;
+  vertical-align: -2px;
+  border: 1px solid white;
+  padding-left: 2px;
+}
